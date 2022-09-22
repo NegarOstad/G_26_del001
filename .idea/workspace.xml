@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f67637-5f9e-493f-8061-bb00b9e3c474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__diplomitdtu_matadorgui_3_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matadorgui-3.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spil/Spil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/G_62_del1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/G_62_del1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spil/Spil.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e3f67637-5f9e-493f-8061-bb00b9e3c474" name="Changes" comment="Spilleren mister alle sine pointer, hvis han slår to en." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
@@ -89,8 +77,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663764828397</updated>
-      <workItem from="1663764830346" duration="15215000" />
+      <workItem from="1663764830346" duration="15756000" />
     </task>
+    <task id="LOCAL-00001" summary="Spilleren mister alle sine pointer, hvis han slår to en.">
+      <created>1663848270126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663848270126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +129,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spilleren mister alle sine pointer, hvis han slår to en." />
+    <option name="LAST_COMMIT_MESSAGE" value="Spilleren mister alle sine pointer, hvis han slår to en." />
   </component>
 </project>
